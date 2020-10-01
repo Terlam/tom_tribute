@@ -1,7 +1,7 @@
 header{
     display: block;
     text-align: center;
-    
+    padding-bottom: 7%;
 }
 .row{
     text-align: center;
@@ -21,4 +21,8 @@ figure{
     text-align: center;
     margin-top: 20px;
     margin-bottom: 40px;
+}
+
+.container{
+    padding: 20px 15% 20px 15%;
 }
